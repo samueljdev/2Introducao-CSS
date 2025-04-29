@@ -23,3 +23,16 @@ h3 {
     padding: 10px;
     font-size: 40px;
 }
+
+/* 10 - Multiplas regras, ordem do css  */
+h2 {
+    border-bottom: 2px solid red;
+}
+
+.titulo {
+    border-bottom: 3px solid blue;
+}
+  
+#algum-titulo {
+    border-bottom: 4px solid green;
+}
