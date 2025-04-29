@@ -8,3 +8,10 @@ h3 {
 }
 
 /* Fazendo testes em comentário */
+
+/* classes */
+.paragraph {
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
+}
