@@ -50,3 +50,12 @@ h2 {
 .hex-2 {
     color: #16c516;
 }
+
+/* 13 - Mais detalhes sobre Hexadecimal */
+.simple-hex {
+    color: #333; /* color: #333333;*/
+}
+  
+.simple-hex-2 {
+    color: #a5f;  /* color: #aa55ff;*/
+}
