@@ -259,3 +259,18 @@ h2 {
     width: 200px;
     height: 400px;
 }
+
+/* Desafio 3 */
+#box-model-desafio {
+    margin: 15px;
+    padding: 15px;
+    border: 5px solid #459;
+    outline: 5px solid #952;
+    background-color: #123;
+}
+  
+.desafio-title {
+    background-color: #000;
+    color: #fff;
+    border: none;
+}
