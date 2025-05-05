@@ -394,3 +394,12 @@ h2 {
     display: none; /* propriedade invisivel*/
     color: #16c516;
 }
+
+/* Static */
+.static {
+    position: static;
+    background-color: #391;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+}
